@@ -1,7 +1,3 @@
-Creating a compelling README file for your manga colorization project using CycleGANs is essential for explaining the project, its significance, and how others can get involved or use the technology. Here’s a template for a README file that includes all necessary sections:
-
----
-
 # Manga Colorization Using CycleGANs
 
 ## Overview
@@ -16,6 +12,8 @@ This project leverages CycleGANs, a type of Generative Adversarial Network, to c
 
 ### Prerequisites
 - Python 3.8+
+- OpenMMLab
+- mmgeneration
 - PyTorch 1.7.1+
 - Torchvision
 - OpenCV for Python
